@@ -83,4 +83,4 @@ inference:
   test_data_400: data/testdata/test_data_400.json
 
 huggingface:
-  token: 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
+  token: 
